@@ -1,0 +1,41 @@
+.icons {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.topMenu {
+    background-color: #303030;
+}
+
+.nav a{
+    display:inline-block;
+    padding:15px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.logos {
+    height: 50px;
+}
+
+.cardBackground {
+    background-color:  #af7ac5;
+}
+
+.cardBackground2 {
+    background-color:    #2980b9;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent; /* Removes border color */
+    float: left; /* Move navbar toggle to left */
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #f00; /* Changes regular toggle color */
+}
+.navbar-default .navbar-toggle .icon-bar:hover {
+    background-color: #fff; /* Changes toggle color on hover */
+}
